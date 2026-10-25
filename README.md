@@ -1,4 +1,4 @@
-# 🚀 SRE Genius: DevOps to SRE Career Roadmap (2026)
+# 🚀 SRE Genius: DevOps to SRE Career Roadmap (2027)
 
 Welcome to the official repository for **SRE Genius**! This repository provides a structured, phase-by-phase learning path for engineers transitioning from DevOps to Site Reliability Engineering (SRE).
 
@@ -6,7 +6,7 @@ Welcome to the official repository for **SRE Genius**! This repository provides 
 
 ---
 
-![SRE Roadmap 2026](assets/sre-roadmap-2026.png)
+![SRE Roadmap 2027](assets/sre-roadmap-2027.png)
 
 ---
 
