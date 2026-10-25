@@ -6,7 +6,7 @@ Welcome to the official repository for **SRE Genius**! This repository provides 
 
 ---
 
-![SRE Roadmap 2027](assets/Path_to_SRE_2027.svg)
+![SRE Roadmap 2027](assets/Path_to_SRE.png)
 
 ---
 
